@@ -1,0 +1,10 @@
+{
+  "name": "data-server",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cors": "^2.4.1",
+    "express": "*",
+    "request": "^2.40.0"
+  }
+}
